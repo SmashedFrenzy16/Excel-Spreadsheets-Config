@@ -19,3 +19,5 @@ sheet = book.active
 for row in data:
 
     sheet.append(row)
+
+chart = PieChart3D()
