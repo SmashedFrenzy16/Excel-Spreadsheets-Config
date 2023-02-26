@@ -2,6 +2,8 @@ from openpyxl import *
 
 from openpyxl.chart import PieChart3D, Reference
 
+name = input("Enter in the name of your Excel workbook: ")
+
 data = [
 
     ["Crisps", "Sold"],
@@ -34,4 +36,4 @@ chart.title = "Most Popular Crisps Flavor"
 
 sheet.add_chart(chart, "A8")
 
-book.save()
+book.save(name)
