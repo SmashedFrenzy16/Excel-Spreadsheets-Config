@@ -13,3 +13,5 @@ sheet["A1"] = num1
 sheet["B1"] = num2
 
 sheet["C1"] = "SUM(A1, B1)"
+
+sheet["D1"] = "IF()"
