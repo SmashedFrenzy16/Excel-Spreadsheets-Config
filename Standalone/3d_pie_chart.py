@@ -11,3 +11,11 @@ data = [
     ["Chicken", 54],
     ["Bacon", 21],
 ]
+
+book = Workbook()
+
+sheet = book.active
+
+for row in data:
+
+    sheet.append(row)
