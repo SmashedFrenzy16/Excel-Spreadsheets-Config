@@ -1,6 +1,6 @@
 from openpyxl import *
 
-name = input("Enter in the name of your Excel workbook: ")
+name = input("Enter in the name of your Excel workbook (including extension): ")
 
 num1 = input("Enter in a number: ")
 
