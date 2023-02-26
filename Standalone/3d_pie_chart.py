@@ -2,7 +2,7 @@ from openpyxl import *
 
 from openpyxl.chart import PieChart3D, Reference
 
-name = input("Enter in the name of your Excel workbook: ")
+name = input("Enter in the name of your Excel workbook (including extension): ")
 
 data = [
 
