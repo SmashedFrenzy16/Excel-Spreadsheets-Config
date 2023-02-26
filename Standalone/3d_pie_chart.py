@@ -21,3 +21,7 @@ for row in data:
     sheet.append(row)
 
 chart = PieChart3D()
+
+labels = Reference(sheet, min_col=1, min_row=2, max_row=5)
+
+data2 = Reference(ws, min_col=2, min_row=1, max_row=5)
