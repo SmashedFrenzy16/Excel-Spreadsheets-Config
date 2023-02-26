@@ -33,3 +33,5 @@ chart.set_categories(labels)
 chart.title = "Most Popular Crisps Flavor"
 
 sheet.add_chart(chart, "A8")
+
+book.save()
