@@ -31,3 +31,5 @@ chart.add_data(data2, titles_from_data=True)
 chart.set_categories(labels)
 
 chart.title = "Most Popular Crisps Flavor"
+
+sheet.add_chart(chart, "A8")
