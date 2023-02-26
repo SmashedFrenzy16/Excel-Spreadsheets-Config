@@ -14,4 +14,4 @@ sheet["B1"] = num2
 
 sheet["C1"] = "SUM(A1, B1)"
 
-sheet["D1"] = "IF()"
+sheet["D1"] = "IF(A1>B1, \"A1 is greater than B1\", \"B1 is greater than A1\")"
