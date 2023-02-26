@@ -4,7 +4,7 @@ This is a repository that has scripts to manage spreadsheets in Excel.
 ## Requirements
 
 - Python 3
-- `openpyxl` module (`pip install openpyxl`)
+- `openpyxl` python module (`pip install openpyxl`)
 
 ## Options
 
