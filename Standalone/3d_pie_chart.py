@@ -8,4 +8,5 @@ data = [
     ["Salty", 100],
     ["Onion", 100],
     ["Chilli", 100],
+    ["Chicken", 100],
 ]
