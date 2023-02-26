@@ -9,5 +9,5 @@ data = [
     ["Onion", 94],
     ["Chilli", 88],
     ["Chicken", 54],
-    ["Bacon", 100],
+    ["Bacon", 21],
 ]
