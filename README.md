@@ -9,4 +9,4 @@ This is a repository that has scripts to manage spreadsheets in Excel.
 
 ## Additional Notes
 
-The `Program` folder of this repository
+The `Program` folder of this repository is currently under development.
