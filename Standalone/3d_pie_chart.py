@@ -9,4 +9,5 @@ data = [
     ["Onion", 100],
     ["Chilli", 100],
     ["Chicken", 100],
+    ["Bacon", 100],
 ]
