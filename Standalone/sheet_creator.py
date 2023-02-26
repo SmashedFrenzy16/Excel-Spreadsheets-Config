@@ -1,6 +1,6 @@
 from openpyxl import *
 
-name = input("Enter in the name of your Excel workbook: ")
+name = input("Enter in the name of your Excel workbook (including extension): ")
 
 sheet_name1 = input("Enter in the name of the first sheet: ")
 
